@@ -9,7 +9,7 @@
 <div align="center">
 
 <!-- 🔁 Replace the Typing SVG text values with your own roles/taglines -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+%5BTANMAY+PATEL%5D+%F0%9F%91%8B;Software+Engineer+in+the+Making+%F0%9F%9A%80;Full+Stack+%7C+AI+%7C+Open+Source+%F0%9F%94%A5;Building+Things+That+Matter+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there%2C+I'm+TANMAY+PATEL+%F0%9F%91%8B;Software+Engineer+in+the+Making+%F0%9F%9A%80;Full+Stack+%7C+AI+%7C+Open+Source+%F0%9F%94%A5;Building+Things+That+Matter+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <!-- 🔁 Replace [YOUR-GITHUB-USERNAME] throughout this file -->
 <!-- 🌐 Visitor Counter -->
@@ -27,9 +27,9 @@
 <!-- ║                    ABOUT ME                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img align="right" alt="Coding" width="360" src="[https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623265363065373166622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644f4c307669595577636e684b55573171306e526e676976596c51304a566e6a6c5158506f36616d6968623073504f524c31427754616c52696d4a6c6c6868797552-636f64696e672e676966](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)" />
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 ```yaml
 name: "TANMAY PATEL"
@@ -106,26 +106,15 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 <!-- ║                  GITHUB STATS                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <!-- 🔁 Replace username -->
-      <img src="https://github-readme-stats.vercel.app/api?username=tanmy-8252&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=ffa657&text_color=c9d1d9" alt="GitHub Stats" />
-    </td>
-    <td>
-      <!-- 🔁 Replace username -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmy-8252&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
-<!-- 🔁 Replace username in streak stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanmy-8252&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58A6FF&fire=ffa657&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tanmy-8252&theme=tokyonight&hide_border=true"
+  />
+</p>
 </div>
 
 <!-- Activity Graph — 🔁 Replace username -->
@@ -248,7 +237,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 - 🐛 My favorite debugging tool? Rubber duck + Stack Overflow + sheer willpower
 - ☕ Coffee-to-code conversion rate: remarkably efficient
 - 🌙 Best code comes at 2 AM — I didn't make the rules
-- 🧩 Fun fact: **[Add your own unique fun fact here!]**
+- 🧩 Fun fact: **where logic meets rhythm, where caffine fuels creation, and every bug becomes a best,this is where ideas turn into something real.**
 
 <div align="center">
 

@@ -111,16 +111,19 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tanmy-8252&theme=tokyonight&hide_border=true"
-  />
+  <a href="https://streak-stats.demolab.com/?user=tanmy-8252&amp;theme=tokyonight&amp;hide_border=true">
+    <img
+      src="https://streak-stats.demolab.com/?user=tanmy-8252&amp;theme=tokyonight&amp;hide_border=true"
+      alt="Tanmay Patel's GitHub contribution streak"
+    />
+  </a>
 </p>
 </div>
 
-<!-- Activity Graph — 🔁 Replace username -->
+<!-- The Activity Graph public deployment is temporarily paused. -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tanmy-8252&bg_color=0d1117&color=58A6FF&line=ffa657&point=58A6FF&area=true&hide_border=true&area_color=1f3352)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[📈 View my contribution activity on GitHub](https://github.com/tanmy-8252)
 
 </div>
 

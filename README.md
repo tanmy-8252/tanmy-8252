@@ -108,12 +108,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 
 ## 🌍 Open Source Contributions
 
-<div align="center">
-
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
-
-</div>
-
 Selected merged contributions to workflow automation, developer tools, and web UI.
 
 | Project | Contribution | Pull Request |

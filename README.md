@@ -103,6 +103,40 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║            OPEN SOURCE CONTRIBUTIONS                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
+
+## 🌍 Open Source Contributions
+
+Selected merged contributions to workflow automation, developer tools, and web UI.
+
+| Project | Contribution | Pull Request |
+|:---|:---|:---:|
+| **[Kestra](https://github.com/kestra-io/kestra)** | Replaced a Bootstrap width utility with scoped styles in the task component. | [✅ Merged #20776](https://github.com/kestra-io/kestra/pull/20776) |
+| **[Kestra Blueprints](https://github.com/kestra-io/blueprints)** | Added an IoT motor health monitoring blueprint with guarded safe-mode requests. | [✅ Merged #1101](https://github.com/kestra-io/blueprints/pull/1101) |
+| **[GlassyUI Components](https://github.com/Jaishree2310/GlassyUI-Components)** | Improved scroll progress bar animation smoothness. | [✅ Merged #520](https://github.com/Jaishree2310/GlassyUI-Components/pull/520) |
+
+<div align="center">
+
+[![Explore merged contributions](https://img.shields.io/badge/GitHub-Merged%20Contributions-58A6FF?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanmy-8252+-user%3Atanmy-8252)
+
+</div>
+
+### 🏆 GitHub Achievement
+
+<p align="center">
+  <a href="https://github.com/tanmy-8252?achievement=pull-shark&amp;tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark — earned GitHub achievement" />
+  </a>
+  <br />
+  <strong>Pull Shark</strong>
+  <br />
+  <a href="https://github.com/tanmy-8252?tab=achievements">View my earned GitHub achievements</a>
+</p>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 <!-- ║                  GITHUB STATS                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════╝ -->
 

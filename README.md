@@ -44,7 +44,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 🔭 I'm currently exploring **OPEN SOURCE** — *finding my footing in the contributor ecosystem*  
 🌱 Leveling up in **System Design · LLMs · Cloud Architecture**  
 🤝 Open to collaborating on **Open Source, AI Tools, Full Stack Projects**  
-💬 Ask me about **React, Node.js, Python, or hackathon strategy**  
+💬 Comfortable to **React, Node.js, Python, or hackathon strategy**  
 📫 Reach me at **tanmaypatel363@gmail.com**  
 ⚡ I thrive at the intersection of **creativity, code, and coffee ☕**
 

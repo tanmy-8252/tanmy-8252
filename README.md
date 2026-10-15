@@ -130,16 +130,6 @@ Selected merged contributions to workflow automation, developer tools, and web U
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/tanmy-8252?achievement=pull-shark&amp;tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" alt="Pull Shark — earned GitHub achievement" />
-  </a>
-  <br />
-  <strong>Pull Shark</strong>
-  <br />
-  <a href="https://github.com/tanmy-8252?tab=achievements">View my earned GitHub achievements</a>
-</p>
-
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════╗ -->

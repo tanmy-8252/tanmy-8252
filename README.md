@@ -116,13 +116,13 @@ Selected merged contributions to workflow automation, developer tools, and web U
 | **[Kestra Blueprints](https://github.com/kestra-io/blueprints)** | Added an IoT motor health monitoring blueprint with guarded safe-mode requests. | [✅ Merged #1101](https://github.com/kestra-io/blueprints/pull/1101) |
 | **[GlassyUI Components](https://github.com/Jaishree2310/GlassyUI-Components)** | Improved scroll progress bar animation smoothness. | [✅ Merged #520](https://github.com/Jaishree2310/GlassyUI-Components/pull/520) |
 
+### 🏆 Achievements
+
 <div align="center">
 
 [![Explore merged contributions](https://img.shields.io/badge/GitHub-Merged%20Contributions-58A6FF?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Atanmy-8252+-user%3Atanmy-8252)
 
 </div>
-
-### 🏆 Achievements
 
 <div align="center">
 

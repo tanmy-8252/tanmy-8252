@@ -112,6 +112,7 @@ Selected merged contributions to workflow automation, developer tools, and web U
 
 | Project | Contribution | Pull Request |
 |:---|:---|:---:|
+| **[Kestra](https://github.com/kestra-io/kestra)** | Replaced Bootstrap padding in the text filter with scoped styles using a design-system spacing token. | [✅ Merged #21148](https://github.com/kestra-io/kestra/pull/21148) |
 | **[Kestra](https://github.com/kestra-io/kestra)** | Replaced a Bootstrap width utility with scoped styles in the task component. | [✅ Merged #20776](https://github.com/kestra-io/kestra/pull/20776) |
 | **[Kestra Blueprints](https://github.com/kestra-io/blueprints)** | Added an IoT motor health monitoring blueprint with guarded safe-mode requests. | [✅ Merged #1101](https://github.com/kestra-io/blueprints/pull/1101) |
 | **[GlassyUI Components](https://github.com/Jaishree2310/GlassyUI-Components)** | Improved scroll progress bar animation smoothness. | [✅ Merged #520](https://github.com/Jaishree2310/GlassyUI-Components/pull/520) |
@@ -127,6 +128,8 @@ Selected merged contributions to workflow automation, developer tools, and web U
 <div align="center">
 
 [![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
+**Kestra milestone:** 3 merged pull requests across core and blueprints.
 
 </div>
 
